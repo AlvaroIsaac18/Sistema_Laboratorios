@@ -1,4 +1,6 @@
 <?php
+namespace App\Controllers;
+
 if (!isset($_SESSION)) {
     session_start();
 }

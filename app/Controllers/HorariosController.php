@@ -1,4 +1,6 @@
 <?php
+namespace App\Controllers;
+
 $pageTitle = "Horarios - Sistema de Laboratorios";
 $activeRoute = "horarios";
 $viewPath = "app/Views/horarios.php";

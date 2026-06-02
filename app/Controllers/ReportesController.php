@@ -1,4 +1,6 @@
 <?php
+namespace App\Controllers;
+
 $pageTitle = "Reportes - Sistema de Laboratorios";
 $activeRoute = "reportes";
 $viewPath = "app/Views/reportes.php";

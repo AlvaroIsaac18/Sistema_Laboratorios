@@ -66,4 +66,3 @@ switch ($route) {
         echo "<h1>404 - Página no encontrada</h1>";
         break;
 }
-
